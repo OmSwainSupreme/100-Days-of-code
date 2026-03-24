@@ -7,7 +7,7 @@ This repository contains my 100-day journey of mastering Data Analysis using Pyt
 
 | Day | Topic | Link |
 |-----|------|------|
-| 1 | Pandas Basics | [View](./Day-01) |
+| 1 | Pandas Basics | [View](./Day1) |
 
 
 ## 🛠️ Tech Stack
